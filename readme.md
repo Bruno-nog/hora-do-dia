@@ -23,4 +23,9 @@ A aparência do site muda conforme a hora do dia, isso agrega na compreensão do
 
 ## Demo
 
-[Link para a demonstração do projeto](https://exemplo.com)
+[Link para a demonstração do projeto](https://bruno-nog.github.io/hora-do-dia/)
+
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-nogueira-de-queiroz-a9667a2a6/)
